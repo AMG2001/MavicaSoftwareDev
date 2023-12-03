@@ -31,9 +31,9 @@
 <table>
   <thead>
     <tr>
-        <th>ORACLE Certified Associate<br>📅 03/12/2023 📅</th>
-        <th>📅 14/07/2023<br>Camera detection and Sending Signals implmeneted ✅</th>
-        <th>📅 17/08/2023<br>Biometric Auth and Time Controller Added ✅</th>
+        <th>ORACLE Certified Associate Certificate<br>📅 03/12/2023 📅</th>
+        <th>Google Development Students Club Certificate<br>📅 05/01/2023 📅</th>
+        <th>Complete Flutter development Bootcamp Certificate<br>📅 02/12/2022 📅</th>
     </tr>
   </thead>
   <tbody>
