@@ -27,6 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Certificates 🎓:</h3>
 <table>
   <thead>
     <tr>
@@ -37,46 +38,33 @@
   </thead>
   <tbody>
     <tr>
-          <td>
-             <img src="https://i.ibb.co/5YHR4r8/Mohamed-amgad-e-Certificate-1.png" alt="Mohamed-amgad-e-Certificate-1" border="0">
-      </td>
-          <td>
-   <img src="https://i.ibb.co/GJ7gNb8/Copy-of-angela-flutter-course-certificate.jpg" alt="Copy-of-angela-flutter-course-certificate" border="0">
+      <td>
+      <img src="https://i.ibb.co/5YHR4r8/Mohamed-amgad-e-Certificate-1.png" alt="Mohamed-amgad-e-Certificate-1" border="0">
       </td>
       <td>
-     <img src="https://i.ibb.co/D533tdr/amg.png" alt="amg" border="0">
+      <img src="https://i.ibb.co/D533tdr/amg.png" alt="amg" border="0">
+      </td>
+      <td>
+      <img src="https://i.ibb.co/GJ7gNb8/Copy-of-angela-flutter-course-certificate.jpg" alt="Copy-of-angela-flutter-course-certificate" border="0">
       </td>
     </tr>
        <tr>
       <td>
      <h3>Description :</h3>
-    - as we need to implement connection between all eco-system components , we implemented bluetooth cotroller that responsible for sending all Signals         depending on detection result .<br>
+    -  .<br>
      </p>
       </td>
      <td>
      <h3>Description :</h3>
-     - Eng / Amgad implemented "Camera Detection and Bluetooth signals sending to Arduino".<br><br>
-     - this task implmeneted by adding google_ml_kit package to project and handling detection results .<br>
+     - .<br>
      </p>
       </td>
        <td>
      <h3>Description :</h3>
-     1. Adding welcome message depending on time that user enter the app "good morning at morning , good night at night - etc".<br><br>
-     2. Adding new Security Feature "Biometric Auth" - user unable to show qrcode to take points until he/she is verified using biometric auth.<br>
+     - <br>
      </p>
       </td>  
        </tr>
-    <tr>
-      <td>
-         <img src=""/>
-      </td>
-         <td>
-         <img src=""/>
-      </td>
-         <td>
-         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzN3bDd5MW82ZWJwZ3ppaTcyNWx0azJtcTl1cXh2ejBmczVod20zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NqjukGLCcMkXt7ote4/giphy.gif"/>
-      </td>
-    </tr>
   </tbody> 
 </table>
 <hr>
