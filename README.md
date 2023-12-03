@@ -51,17 +51,17 @@
        <tr>
       <td>
      <h3>Description :</h3>
-    -  .<br>
+    - Taken within 2 months Java SE 8 internship in Global Academy in Elmohndseen in Giza - the costs of Exam were voucher from ministry of Communications and Telecom - EG.<br>
      </p>
       </td>
      <td>
      <h3>Description :</h3>
-     - .<br>
+     - Taken after 4 months of work as Flutter instructor for over 50 student in Google Development Student Club in Computer Science , Mounofia.<br>
      </p>
       </td>
        <td>
      <h3>Description :</h3>
-     - <br>
+     - Taken after 6 Months of Studying Flutter not only with that course , but also with a couple of other courses .<br>
      </p>
       </td>  
        </tr>
